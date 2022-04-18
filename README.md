@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **R**
 
-- 👯 I’m looking to collaborate on **other content creators**
+- 👯 I’m looking to collaborate with **other content creators**
 
 - 📫 How to reach me **mrigankarofficial@gmail.com**
 
