@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrigankar1134&label=Profile%20views&color=0e75b6&style=flat" alt="mrigankar1134" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mrigankarsonow2" target="blank"><img src="https://img.shields.io/twitter/follow/mrigankarsonow2?logo=twitter&style=for-the-badge" alt="mrigankarsonow2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mah_mrigankar" target="blank"><img src="https://img.shields.io/twitter/follow/mah_mrigankar?logo=twitter&style=for-the-badge" alt="mah_mrigankar" /></a> </p>
 
 - 🔭 I’m currently working on **Movie Recommendation System**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mrigankar1134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mrigankar1134" height="30" width="40" /></a>
-<a href="https://twitter.com/mrigankarsonow2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrigankarsonow2" height="30" width="40" /></a>
+<a href="https://twitter.com/mah_mrigankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mah_mrigankar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrigankarsonowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrigankarsonowal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mrigankar sonowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mrigankar sonowal" height="30" width="40" /></a>
 <a href="https://fb.com/mrigankar sonowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrigankar sonowal" height="30" width="40" /></a>
