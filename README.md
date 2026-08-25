@@ -166,15 +166,6 @@ $ ./gymless_people --info
 
 ---
 
-## `> unlock achievements --all`
-
-<div align="center">
-
-<img src="./metrics/achievements.svg" alt="achievements" width="80%" />
-
-</div>
-
----
 
 ## `> ./snake --eat-contributions`
 
