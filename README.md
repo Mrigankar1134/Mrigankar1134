@@ -11,10 +11,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=root%40mrigu%3A~%24+initializing+digital+transformation...;I+turn+spreadsheet+chaos+into+systems+that+scale.;ERP-grade+builds.+Shipped+solo.+Usually+at+4+AM." alt="boot sequence" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Mrigankar1134&label=SESSIONS+LOGGED&color=00FF41&style=flat-square" alt="visitors" />
-
 </div>
 
 ---
@@ -68,7 +64,7 @@ $ cat /etc/profile
 > One stack. Three deployment targets — desktop, web, backend. No context switching.
 
 <details>
-<summary><b><code>$ cat ~/.also_fluent  # 17 more →</code></b></summary>
+<summary><b><code>$ cat ~/.also_fluent  # 21 more →</code></b></summary>
 
 <br>
 
@@ -124,17 +120,6 @@ $ cat /etc/profile
 
 ## `> git remote -v  # public repos`
 
-<div align="center">
-
-<a href="https://github.com/Mrigankar1134/CompileDaily">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mrigankar1134&repo=CompileDaily&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41" />
-</a>
-<a href="https://github.com/Mrigankar1134/Gymless_People">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mrigankar1134&repo=Gymless_People&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41" />
-</a>
-
-</div>
-
 ```bash
 $ ./compile_daily --info
 > Android app for deep-diving into Java. Free resources, curated links,
@@ -145,28 +130,25 @@ $ ./gymless_people --info
 > without a gym. Plus P2P rental — idle gear becomes someone else's session.
 ```
 
+<div align="center">
+
+<a href="https://github.com/Mrigankar1134/CompileDaily">
+  <img src="https://img.shields.io/badge/%E2%96%B8_CompileDaily-0D1117?style=for-the-badge&logo=android&logoColor=00FF41" />
+</a>
+<a href="https://github.com/Mrigankar1134/Gymless_People">
+  <img src="https://img.shields.io/badge/%E2%96%B8_Gymless__People-0D1117?style=for-the-badge&logo=googlefit&logoColor=00FF41" />
+</a>
+
+</div>
+
 ---
 
 ## `> ./run_diagnostics.sh`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mrigankar1134&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41" />
-<img height="165" src="https://streak-stats.demolab.com?user=Mrigankar1134&hide_border=false&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=00FF41" />
-
-<br><br>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrigankar1134&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41" />
-
-</div>
-
----
-
-## `> unlock achievements --all`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mrigankar1134&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="./metrics/stats.svg" alt="core stats" width="49%" />
+<img src="./metrics/languages.svg" alt="most used languages" width="49%" />
 
 </div>
 
@@ -176,7 +158,19 @@ $ ./gymless_people --info
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrigankar1134&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=false&border_color=00FF41" />
+<img src="./metrics/calendar.svg" alt="contribution calendar and commit habits" width="80%" />
+
+</div>
+
+> The habits chart shows exactly when I commit. I did warn you about 4 AM.
+
+---
+
+## `> unlock achievements --all`
+
+<div align="center">
+
+<img src="./metrics/achievements.svg" alt="achievements" width="80%" />
 
 </div>
 
