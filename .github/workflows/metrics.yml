@@ -6,6 +6,10 @@
 # REQUIRES: a repository secret named METRICS_TOKEN
 #   Settings → Secrets and variables → Actions → New repository secret
 #   Token scopes: public_repo (or repo for private stats) + read:user
+#
+# NOTE: debug/verify are ON for steps 3 and 4 to diagnose the two failing
+# plugins. Remove those two lines from each once the errors are identified —
+# they make the logs enormous.
 
 name: Generate Metrics
 
@@ -65,13 +69,15 @@ jobs:
       # ────────────────────────────────────────────────
       # 3. Isometric calendar + habits
       #    Replaces the activity graph AND the streak card.
-      #    The habits chart shows WHEN you commit — your 4 AM flex, proven.
+      #    habits is currently failing — debug is on to find out why.
       # ────────────────────────────────────────────────
       - name: Calendar and habits
         uses: lowlighter/metrics@v3.34
         if: ${{ success() || failure() }}
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          debug: yes
+          verify: yes
           filename: metrics/calendar.svg
           base: ""
           config_timezone: Asia/Kolkata
@@ -86,12 +92,15 @@ jobs:
 
       # ────────────────────────────────────────────────
       # 4. Achievements — replaces the trophy case
+      #    Also failing — debug is on here too.
       # ────────────────────────────────────────────────
       - name: Achievements
         uses: lowlighter/metrics@v3.34
         if: ${{ success() || failure() }}
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          debug: yes
+          verify: yes
           filename: metrics/achievements.svg
           base: ""
           config_timezone: Asia/Kolkata
