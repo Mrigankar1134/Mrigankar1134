@@ -1,33 +1,238 @@
-<h1 align="center">Hi 👋, I'm Mrigankar Sonowal</h1>
-<h3 align="center">A passionate Data Science Enthusiast from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrigankar1134&label=Profile%20views&color=0e75b6&style=flat" alt="mrigankar1134" /> </p>
+```
+███╗   ███╗██████╗ ██╗ ██████╗ ██╗   ██╗
+████╗ ████║██╔══██╗██║██╔════╝ ██║   ██║
+██╔████╔██║██████╔╝██║██║  ███╗██║   ██║
+██║╚██╔╝██║██╔══██╗██║██║   ██║██║   ██║
+██║ ╚═╝ ██║██║  ██║██║╚██████╔╝╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝
+```
 
-<p align="left"> <a href="https://twitter.com/mah_mrigankar" target="blank"><img src="https://img.shields.io/twitter/follow/mah_mrigankar?logo=twitter&style=for-the-badge" alt="mah_mrigankar" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=root%40mrigu%3A~%24+initializing+digital+transformation...;I+turn+spreadsheet+chaos+into+systems+that+scale.;ERP-grade+builds.+Shipped+solo.+Usually+at+4+AM." alt="boot sequence" />
 
-- 🔭 I’m currently working on **Movie Recommendation System**
+<br>
 
-- 🌱 I’m currently learning **R**
+<img src="https://komarev.com/ghpvc/?username=Mrigankar1134&label=SESSIONS+LOGGED&color=00FF41&style=flat-square" alt="visitors" />
 
-- 👯 I’m looking to collaborate with **other content creators**
+</div>
 
-- 📫 How to reach me **mrigankarofficial@gmail.com**
+---
 
-- ⚡ Fun fact :  **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
+```bash
+$ whoami
+> Mrigankar Sonowal
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mrigankar1134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mrigankar1134" height="30" width="40" /></a>
-<a href="https://twitter.com/mah_mrigankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mah_mrigankar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrigankarsonowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrigankarsonowal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mrigankar sonowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mrigankar sonowal" height="30" width="40" /></a>
-<a href="https://fb.com/mrigankar sonowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrigankar sonowal" height="30" width="40" /></a>
-<a href="https://instagram.com/@__________mrigankar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__________mrigankar11" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mrigankar11" target="blank"><img align="center" src="https://camo.githubusercontent.com/b72ea44d92dd67ad610334c8293caf1852527b39d3c45926b6c5f084d49e748d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e312e302f69636f6e732f636f6465636865662e737667" alt="mrigankar11" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mrigankarsonowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mrigankarsonowal" height="30" width="40" /></a>
-</p>
+$ cat /etc/profile
+> ROLE       : Digital Transformation @ Eckstein
+> SIDE_OPS   : Freelance — ERP-grade systems · Windows apps · web rebuilds
+> EDUCATION  : MBA, IIM Amritsar '26   ·   B.Tech, LPU '24
+> EDGE       : I speak boardroom and terminal. Most people pick one.
+> STATUS     : ● online — building things companies run on
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrigankar1134&show_icons=true&locale=en&layout=compact" alt="mrigankar1134" /></p>
+## `> systemctl status mrigu.service`
+
+```yaml
+● mrigu.service — Digital Transformation Daemon
+   Loaded: loaded (/usr/lib/systemd/system/mrigu.service; enabled)
+   Active: active (running)
+
+   working_on : Rate Analysis Engine — tender rate intelligence for contractors
+   learning   : Product Management
+   open_to    : ERP builds · internal tooling · workflow automation
+              : anything that starts as a spreadsheet and shouldn't be one
+   ask_me     : killing spreadsheet chaos · shipping Electron apps solo
+              : ERP from zero · why your tender rates are wrong
+```
+
+---
+
+## `> ls -la ~/weapons_of_choice`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF41)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF41)
+![Electron](https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=00FF41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF41)
+
+</div>
+
+> One stack. Three deployment targets — desktop, web, backend. No context switching.
+
+<details>
+<summary><b><code>$ cat ~/.also_fluent  # 17 more →</code></b></summary>
+
+<br>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00FF41)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=00FF41)
+![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=flat-square&logo=wordpress&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00FF41)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00FF41)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=00FF41)
+![Azure](https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00FF41)
+![GitHub Actions](https://img.shields.io/badge/Actions-0D1117?style=flat-square&logo=githubactions&logoColor=00FF41)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00FF41)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00FF41)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0D1117?style=flat-square&logo=openai&logoColor=00FF41)
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=00FF41)
+![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=flat-square&logo=tableau&logoColor=00FF41)
+![Excel](https://img.shields.io/badge/Excel_%2F_VBA-0D1117?style=flat-square&logo=microsoftexcel&logoColor=00FF41)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=00FF41)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=00FF41)
+
+</div>
+
+</details>
+
+---
+
+## `> sudo cat /var/log/classified_ops.log`
+
+```diff
+! [REDACTED]  ERP CONSOLIDATION — Eckstein
+!   └─ collapsed scattered spreadsheet workflows into a single platform
+!   └─ one source of truth where there were dozens
+
+! [REDACTED]  CRM + LEAD AUTOMATION LAYER
+!   └─ automatic lead capture, wired into existing automations
+!   └─ revenue pipeline that stops leaking at the top
+
++ [ACTIVE]    RATE ANALYSIS ENGINE — freelance
++   └─ tender rate analysis + bid suggestions for contractual builders
++   └─ contractors stop bidding blind
+
+# 3 systems in production. 0 public links. Ask me offline.
+```
+
+---
+
+## `> git remote -v  # public repos`
+
+<div align="center">
+
+<a href="https://github.com/Mrigankar1134/CompileDaily">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mrigankar1134&repo=CompileDaily&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41" />
+</a>
+<a href="https://github.com/Mrigankar1134/Gymless_People">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mrigankar1134&repo=Gymless_People&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41" />
+</a>
+
+</div>
+
+```bash
+$ ./compile_daily --info
+> Android app for deep-diving into Java. Free resources, curated links,
+> daily tracker, game-based progression. Learning as a system, not a playlist.
+
+$ ./gymless_people --info
+> Your surroundings ARE the equipment. Identify what's nearby, work out
+> without a gym. Plus P2P rental — idle gear becomes someone else's session.
+```
+
+---
+
+## `> ./run_diagnostics.sh`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mrigankar1134&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41" />
+<img height="165" src="https://streak-stats.demolab.com?user=Mrigankar1134&hide_border=false&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=00FF41" />
+
+<br><br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrigankar1134&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41" />
+
+</div>
+
+---
+
+## `> unlock achievements --all`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mrigankar1134&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+---
+
+## `> tail -f activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrigankar1134&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=false&border_color=00FF41" />
+
+</div>
+
+---
+
+## `> ./snake --eat-contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mrigankar1134/Mrigankar1134/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mrigankar1134/Mrigankar1134/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Mrigankar1134/Mrigankar1134/output/snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## `> cat ~/.secrets`
+
+```
+> "Travel opens your heart, broadens your mind,
+>  and fills your life with stories to tell."
+
+> offline_processes  : music · football · riding · gaming
+> peak_commit_hour   : 04:00 IST
+> known_bug          : sleep schedule
+> status             : wontfix
+```
+
+---
+
+## `> ping mrigu --connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mrigankarsonowal">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+</a>
+<a href="mailto:mrigankarofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+</a>
+<a href="https://x.com/i_am_mrigankar">
+  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00FF41" />
+</a>
+<a href="https://instagram.com/__________mrigankar11">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41" />
+</a>
+
+<br><br>
+
+```
+$ exit
+> Connection to mrigu closed.
+> Got a process that shouldn't be manual? You know where the inbox is.
+```
+
+</div>
