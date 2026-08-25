@@ -3,7 +3,9 @@
 # Generates all profile stats as SVG files and commits them into this repo.
 # No external image services involved — nothing here can go down.
 #
-# REQUIRES: a repository secret named METRICS_TOKEN (see setup notes).
+# REQUIRES: a repository secret named METRICS_TOKEN
+#   Settings → Secrets and variables → Actions → New repository secret
+#   Token scopes: public_repo (or repo for private stats) + read:user
 
 name: Generate Metrics
 
@@ -25,27 +27,35 @@ jobs:
       # 1. Core stats — replaces the old stats card
       # ────────────────────────────────────────────────
       - name: Core stats
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/stats.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          config_theme: dark
           user: Mrigankar1134
+          # Dark styling — metrics has no config_theme input, extras_css is
+          # the supported route. Repeat this block in each step you want dark.
+          # extras_css: |
+          #   :root {
+          #     --color-calendar-graph-day-bg: #161b22;
+          #     --color-text-default: #c9d1d9;
+          #     --color-text-secondary: #8b949e;
+          #   }
+          #   svg { background: #0d1117 !important; }
+          #   .row, .field, h2, .value { color: #c9d1d9 !important; }
 
       # ────────────────────────────────────────────────
       # 2. Languages — replaces the top-langs card
       # ────────────────────────────────────────────────
       - name: Languages
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         if: ${{ success() || failure() }}
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/languages.svg
           base: ""
           config_timezone: Asia/Kolkata
-          config_theme: dark
           user: Mrigankar1134
           plugin_languages: yes
           plugin_languages_details: percentage
@@ -58,14 +68,13 @@ jobs:
       #    The habits chart shows WHEN you commit — your 4 AM flex, proven.
       # ────────────────────────────────────────────────
       - name: Calendar and habits
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         if: ${{ success() || failure() }}
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/calendar.svg
           base: ""
           config_timezone: Asia/Kolkata
-          config_theme: dark
           user: Mrigankar1134
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -79,14 +88,13 @@ jobs:
       # 4. Achievements — replaces the trophy case
       # ────────────────────────────────────────────────
       - name: Achievements
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         if: ${{ success() || failure() }}
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/achievements.svg
           base: ""
           config_timezone: Asia/Kolkata
-          config_theme: dark
           user: Mrigankar1134
           plugin_achievements: yes
           plugin_achievements_threshold: C
